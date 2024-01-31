@@ -20,7 +20,7 @@ solely relies on frontend validation, which can be easily circumvented by interc
 proxy like Burp Suite. This allowed me to upload a web shell and execute commands on the underlying
 server.
 
-
+![POC](https://github.com/jomskiller/Employee-Management-System---Arbitrary-File-Upload/blob/main/image.png)
 
 Remediation:
 To address the identified vulnerability, where the file upload feature relies solely on frontend validation
